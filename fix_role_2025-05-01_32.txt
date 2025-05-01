@@ -1,0 +1,1 @@
+Fix role management for session (efficient) - Implemented a new feature to enhance role management.
