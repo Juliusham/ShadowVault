@@ -1,0 +1,1 @@
+Remove payment processing for error (major) - Implemented a new feature to enhance payment processing.
