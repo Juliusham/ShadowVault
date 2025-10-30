@@ -1,0 +1,1 @@
+Fix login for synchronization (high-priority) - Implemented a new feature to enhance login.
