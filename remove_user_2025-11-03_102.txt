@@ -1,0 +1,1 @@
+Remove user input for CI/CD (high-priority) - Implemented a new feature to enhance user input.
