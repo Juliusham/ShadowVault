@@ -1,0 +1,1 @@
+Deploy deployment process for client (easy) - Implemented a new feature to enhance deployment process.
