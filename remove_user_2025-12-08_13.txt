@@ -1,0 +1,1 @@
+Remove user input for bugfix (low-priority) - Implemented a new feature to enhance user input.
